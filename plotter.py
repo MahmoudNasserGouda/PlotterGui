@@ -5,6 +5,7 @@ import PySimpleGUI as sg
 import matplotlib.pyplot as plt
 import numpy as np
 
+
 def main():
     file_input_column = [
         [
